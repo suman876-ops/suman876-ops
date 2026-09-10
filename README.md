@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SUMAN MAHATA
 Aspiring Software Developer | C & Web Development | Open-Source Enthusiast | Always Learning & Building 🚀
 
 
