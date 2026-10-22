@@ -68,7 +68,7 @@ I'm a Full Stack Developer who enjoys turning ideas into clean, fast and reliabl
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Personal Portfolio** | A dark, space-themed developer portfolio with a Three.js 3D background, animated reveals, a command palette and a live repository feed. | HTML · CSS · JavaScript · Three.js | [Live](https://suman876-ops.github.io/suman-portfolio/) · [Code](https://github.com/suman876-ops/suman-portfolio) |
+| **Personal Portfolio** | A dark, space-themed developer portfolio with a Three.js 3D background, animated reveals, a command palette and a project showcase. | HTML · CSS · JavaScript · Three.js | [Live](https://suman876-ops.github.io/suman-portfolio/) · [Code](https://github.com/suman876-ops/suman-portfolio) |
 | **SMX — Personal College OS** | A personal student workspace: Study Hub, Notes, Assignments, Mock Tests, Skills Tracker, Calendar and document management. | React · Vite · Supabase | In development |
 | **Apna Mess** | A mobile-friendly PWA for two roommates — electricity bills, meal tracking, shared expenses, wallets and offline sync. | React · Supabase · PWA | [Live](https://dwelling-duo-fin.lovable.app) |
 | **Smart Bhumi** | A land-records platform concept — land information, GIS mapping, AI/OCR-assisted document processing and data validation. | Hackathon prototype | [Live](https://smart-bhumi.ai.studio) |
